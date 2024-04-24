@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    color:blueviolet;
+    text-align: center;
+}
+
+thead{
+    text-align: center;
+    background-color: rgb(104, 191, 231);
+   
+}
+
+.monospace{
+    font-family: monospace;
+    background-color: antiquewhite;
+    display: inline;
+}
+
+body{
+    background-color:aliceblue
+}
+
+table{
+    width: 600px;
+    
+    border: 4px dotted black;
+    border-color: #e50fb3;
+    text-align: left;
+    margin: 0 auto;
+
+}
+
+td {
+    border-top: 1px solid rgb(51, 46, 193);
+  }
